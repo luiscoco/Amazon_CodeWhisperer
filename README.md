@@ -1,5 +1,9 @@
 # Amazon CodeWhisperer
 
+## Introductory video
+
+https://www.youtube.com/watch?v=j8BoVmHKFlI
+
 https://aws.amazon.com/codewhisperer/resources/#Getting_started/
 
 ## How to install CodeWhisperer
